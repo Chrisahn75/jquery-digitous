@@ -1,0 +1,1 @@
+const width = document.querySelector("#square").style.width = "500px";

@@ -1,0 +1,1 @@
+let button = document.querySelector(".btn").click(displaySecretText());
